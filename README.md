@@ -29,7 +29,9 @@ Your callable object that calculates the trading decision must meet the followin
 
 This program must run under python 3 and do not support python 2
 
-This program uses the following open-source libraries: WebSocket and KBHIT
+This program uses the following open-source libraries: 
+* [WebSocket](https://github.com/liris/websocket-client)
+* [KBHIT](http://home.wlu.edu/~levys/software/kbhit.py)
 
 ### License
 

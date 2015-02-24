@@ -27,7 +27,7 @@ Your callable object that calculates the trading decision must meet the followin
 
 ### Note
 
-This program must run under python 3 and do not support python 2
+This program must run under python 3 and does not support python 2
 
 This program uses the following open-source libraries, copying their source code directly into this project: 
 * [WebSocket](https://github.com/liris/websocket-client)

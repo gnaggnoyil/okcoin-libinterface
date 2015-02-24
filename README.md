@@ -18,7 +18,7 @@ Your callable object that calculates the trading decision must meet the followin
     import autotradecli
 
     def _foo(input, startResponse):
-        decision = ('buy_market', 89.64)
+        decision = ('buy_market', 114.514)
         response = startResponse(decision)
         print(response)
 
